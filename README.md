@@ -1,1 +1,2 @@
 "# explainable-ai" 
+there are two files ipynb  for that ipynb  what i want using ipynb study it afterwards treat me as a high schooler ai enthusiasts and explain 3-4 cells to me at a time in detail both code and output move to next 3-4 cells only when i say so  also if output for lets say some graph is not visble to u in ipynb i will tell u the output either by describing in words or providing screenshot but be sure to pint out that output is not clear to u do u understand?
